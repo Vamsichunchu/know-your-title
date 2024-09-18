@@ -1,0 +1,22 @@
+body {
+    background: #aaa4a4;
+ 
+}
+.wrapper{
+    width: 200px;
+    text-align: center; 
+}
+.header{
+    text-align: center;
+}
+
+  button {
+        
+    width: 150px;
+    height: 14px;
+    padding: 14px;
+    line-height: 0.23;
+    font-size: 18px;
+    background: #c1b157d0;
+    color: #7c0808;
+  }
